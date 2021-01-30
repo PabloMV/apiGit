@@ -1,0 +1,29 @@
+body nav svg.octicon.octicon-mark-github.text-white {
+  background: #fff;
+  border-radius: 100%;
+  border: 1px solid #fff;
+}
+
+body nav .container {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body button.btn-close {
+  right: 15px;
+  position: absolute;
+}
+
+body .card {
+  margin: 0 auto;
+}
+
+body ul.pagination {
+  position: relative;
+  width: 100%;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+/*# sourceMappingURL=style.css.map */
